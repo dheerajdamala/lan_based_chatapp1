@@ -1,0 +1,5 @@
+server and client exe files are located inside folder called dist 
+click on server to start the server
+click on client to start the client
+In case of client running if bluescreen occurs click run anyway in the advance options
+arial and DejaVuSans are type of fonts used in gui and to make  exe file they are required so we kept them in the folder 
